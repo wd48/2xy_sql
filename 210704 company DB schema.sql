@@ -53,5 +53,5 @@ create table branch_supplier(
 	supplier_name varchar(40),
 	supply_type varchar(40),
 	primary key(branch_id, supplier_name),
-	foreign key(branch_id) REFERENCES branch(branch_id) on delete set null
+	foreign key(branch_id) REFERENCES branch(branch_id) on delete cascade
 );
