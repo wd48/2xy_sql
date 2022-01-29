@@ -63,3 +63,4 @@ https://m.blog.naver.com/loleego/221612883092?referrerCode=1
     [3] 비일관성(Inconsistency)
         - 데이터 모델링을 할 때, 데이터와 데이터 간 상호 연관 관계에 대한 명확한 정의가 필요함
         이를 어길 경우 연관된 정보에 대한 갱신 없이 타 정보를 갱신할 수 있음
+
